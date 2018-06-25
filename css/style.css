@@ -23,6 +23,7 @@ body {
 .footer{
   display: block;
   float: right;
+  font-size: 5px;
 }
 
 /* Write all remaining styles here */
