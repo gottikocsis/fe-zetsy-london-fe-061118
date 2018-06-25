@@ -19,4 +19,9 @@ body {
 	padding: 0 45px 20px;
 }
 
+footer{
+  float: left;
+}
+}
+
 /* Write all remaining styles here */
